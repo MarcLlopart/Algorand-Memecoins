@@ -1,0 +1,2 @@
+# Algorand-Memecoins
+Algorand Memecoins
